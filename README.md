@@ -47,10 +47,13 @@ Scan QR with Expo Go
 (Add screenshots of your app running here)
 
 ## Video Submission Link
-
+https://youtu.be/EiNO83xKiXU
 
 ## GitHub Repo Link for Submission
 https://github.com/sevenonefivexo/christoffelrestaurantappST10107043
+
+##Snackexpo link
+https://snack.expo.dev/@sevenonefivexo/christoffelrestaurantst10107043
 
 ## Developer
 Lesego Ramoroka - ST10107043
